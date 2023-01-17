@@ -1,10 +1,12 @@
 # Furniture Store Business Analysis using Tableau
 
 **Case Study[Assumption Based]:**
+
 The furniture store considered here is IKEA whose main objective is to grow its business all around the world. To achieve this objective IKEA is establishing new stores in many countries. IKEA already has two established stores in Dublin, Ireland. With the plans to expand its presence in Ireland it has setup a new store in Cork.
 The business analytics report focused to help IKEA monitor the progress and performance of its newly established store in Cork. Because of the uncertain event of COVID-19 the growth of Cork store was not satisfactory. The team aims to understand and analyze all aspects of the business to improve overall revenue. To develop system to search potential customers and small business which can be considered as customers. IKEA also wants to conduct new marketing campaigns which will help to attract new customers and to increase number of loyal customers as IKEA family member. Additionally, with new rules and regulation of COVID-19 IKEA wants to grow its business in the online market along with offline store.
 
 **Analytical requirements are as below:**
+
 1. To identify new leads using mails, calls, app notification, online campaigns and social media.
 2. To analyse existing customers data to increase the number of loyal customers as IKEA family members.
 3. To evaluate revenue of first year and to build new strategies for better growth.
@@ -16,6 +18,7 @@ Apart from data found on Kaggle, some data was generated on Mockaroo for improve
 # Tableau Implementation
 
 **Revenue Dashboard**
+
 The revenue dashboard is a financial dashboard which shows the company’s income, profit earned in particular month, quarter and year. The dashboard shows a trend in revenue and breaks down the revenue categories. The revenue dashboard can be used by executives to monitor revenue performance. 
 ![image](https://user-images.githubusercontent.com/17510556/212885104-861cc9ba-e611-40cc-815e-ff58d10a9efd.png)
 
@@ -53,6 +56,7 @@ Order count by category:
 The visualization represent the various product categories. Bigger the circle higher is the order count associated with the product. IKEA can use this information to check products which have the low order count and can try to boost its sale.
 
 **Customer Dashboard**
+
 The customer dashboards describe the overview of past customer data of business. Ikea one of main objective is to build better life for their customers. Therefore, analysing past customer data and to understand customers is very important to increase customer satisfaction. Additionally, customer dashboard is helpful to increase number of customers in the future. Above customer dashboards explains customer by country, different profession of customers, customer gender, age, etc.
 
 ![image](https://user-images.githubusercontent.com/17510556/212885309-1b0d43cb-df41-4159-af7b-8402ee8dd639.png)
